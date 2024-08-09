@@ -1,2 +1,2 @@
 # RubyBnb
-A rub on rails airbnb clone
+A ruby on rails airbnb clone
